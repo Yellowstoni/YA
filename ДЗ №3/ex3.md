@@ -22,13 +22,13 @@
 
 >[!NOTE] 
 > Путем пользовательской ошибки `400` был определен диапозон значений
-<div align="right">
+<div>
   <img align='center' src='img.png' width='650x'>
 </div>
 
 >[!NOTE] 
 > Через скрипт было подсчитано кол-во записей
-<div align="right">
+<div>
   <img align='center' src='img_1.png' width='550'>
 </div>
 
