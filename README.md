@@ -10,4 +10,4 @@ UPDATES 1.0 ДЗ №1
 
 1. [ДЗ №1](https://github.com/Yellowstoni/YALab/blob/main/ДЗ%20№1/ex1.md) 
 2. [ДЗ №2](https://github.com/Yellowstoni/YALab/blob/main/ДЗ%20№2/ex2.md)
-3. [ДЗ №3]()
+3. [ДЗ №3](https://github.com/Yellowstoni/YALab/blob/main/%D0%94%D0%97%20%E2%84%963/ex3.md)
