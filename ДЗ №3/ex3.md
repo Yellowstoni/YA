@@ -8,7 +8,7 @@
  1.1 `GET https://ylab.io/ HTTP/2`  
  `Host: ylab.io`  
 
- 2.1 `rgb(10, 184, 182)` <font color="#0ab8b6">"О компании"</font>
+ 2.1 `rgb(10, 184, 182)` 
 
 ## Задание второе 
  Определить для API https://api.nasa.gov/planetary/apod следующие данные:
