@@ -7,8 +7,8 @@ UPDATE 1.0 ДЗ №1
 Ответ на вопросы: 2,3.  
 
 >[!IMPORTANT]
-> UPDATE 1.1 ДЗ №3
-> Были изменено 1 задание
+> UPDATE 1.1 ДЗ №3  
+> Было изменено 1 задание
 
 
 1. [ДЗ №1](https://github.com/Yellowstoni/YALab/blob/main/ДЗ%20№1/ex1.md) 
