@@ -5,7 +5,7 @@
 
 Ответ:   
 
- 1.1 `GET https://ylab.io/ HTTP/2`  
+ 1.1 `GET https://ylab.io/ HTTP/1.1`  
  `Host: ylab.io`  
 
  2.1 `rgb(10, 184, 182)` 
